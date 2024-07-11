@@ -1,7 +1,7 @@
 pdfmake build : 0.1.39
 
 fonts:
-	1. 微软雅黑
+	1. 微軟雅黑
 	
 	
 	
